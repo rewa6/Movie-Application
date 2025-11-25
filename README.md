@@ -1,8 +1,8 @@
-Cinemate – Movie Ticket Booking System
-📌 Overview
+**Cinemate – Movie Ticket Booking System**
+**📌 Overview**
 Cinemate is a full-stack movie ticket booking application that allows users to browse movies, select showtimes, and book tickets seamlessly. The project is built with React for the frontend and Python (Django/Flask) for the backend, ensuring a responsive UI and a robust API.
 
-✅ Features
+**✅ Features**
 
 🎬 Browse movies with details like title, genre, and rating.
 🕒 View available showtimes and theaters.
@@ -11,7 +11,7 @@ Cinemate is a full-stack movie ticket booking application that allows users to b
 📱 Responsive design for mobile and desktop.
 
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Frontend: React, HTML, CSS, JavaScript
 Backend: Python (Django or Flask), REST API
@@ -19,7 +19,7 @@ Database: PostgreSQL / MySQL
 Version Control: Git & GitHub
 
 
-📂 Project Structure
+**📂 Project Structure**
 Movie/
 │
 ├── frontend/        # React app
