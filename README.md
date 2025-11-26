@@ -75,11 +75,17 @@ cd Movie
 
 
 Frontend Setup
-Shellcd frontendnpm installnpm startShow more lines
+Shell
+cd frontend
+npm install
+npm start
 
 
 Backend Setup
-Shellcd backendpip install -r requirements.txtpython manage.py runserverShow more lines
+Shell
+cd backend
+pip install -r requirements.txt
+python manage.py runserver
 
 
 
